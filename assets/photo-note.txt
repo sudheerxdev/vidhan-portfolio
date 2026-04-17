@@ -1,0 +1,4 @@
+Place your uploaded profile image here as:
+assets/profile-photo.jpg
+
+This file is a placeholder note and can be deleted after adding the photo.
